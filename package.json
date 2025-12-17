@@ -1,0 +1,12 @@
+{
+  "name": "kai-uiux-agent",
+  "version": "1.0.0",
+  "description": "AI-powered UI/UX agent scripts and files for KAI e-learning platform",
+  "main": "kai-uiux-agent.js",
+  "scripts": {
+    "start": "node kai-uiux-agent.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
