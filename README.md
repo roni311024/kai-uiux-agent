@@ -23,3 +23,15 @@ node kai-uiux-agent-final.js
 ```
 
 The script will produce `KAI_UIUX_Agent_Output.md` containing the generated UX deliverables.
+
+## One-click Online Environment
+
+You can open this project in a fully configured online development environment with one click using Gitpod.
+
+[Op[en in Gitpod](https://gitpod.io/#https://github.com/roni311024/kai-uiux-agent)
+
+This will launch a browser-based workspace pre-installed with Node.js and the repository so you can start running the agent immediately. After the workspace loads:
+
+1. Replace the contents of `input.txt` with your product brief.
+2. Set your OpenAI API key as an environment variable inside the workspace.
+3. Run `node kai-uiux-agent-final.js` to generate your UX deliverables.
