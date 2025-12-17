@@ -1,0 +1,7 @@
+Product: KAI — e-learning + performance enablement for frontline and sales teams (US/Canada).
+Platforms: iOS / Android / Web (admin + manager on web first).
+Goals: higher completion, measurable skill improvement, manager visibility, low friction onboarding, high engagement without “cheap gamification.”
+Key features: microlearning, challenges, rewards, smart QR validation, role-based learning paths, AI coaching, scenario practice, analytics dashboard.
+Constraints: no VR. Must scale to large orgs. Support compliance + optional community.
+Competitors/inspiration: SellPro, Intel Retail Edge, Cornerstone.
+Tone: modern, premium, motivating, not childish.
