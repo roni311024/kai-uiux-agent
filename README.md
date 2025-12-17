@@ -1,12 +1,12 @@
 # KAI UI/UX Agent
 
-This repository contains a Node.js script that uses OpenAI to generate UI/UX design deliverables for the KAI e‑learning platform.
+This repository contains Node.js scripts that use OpenAI to generate UI/UX design deliverables for the KAI e-learning platform.
 
 ## Setup
 
 1. Install dependencies:
 
-```bash
+````bash
 npm install
 ```
 
@@ -16,10 +16,10 @@ npm install
 
 ## Usage
 
-Run the agent script:
+Run the improved agent script:
 
-```bash
-node kai-uiux-agent.js
+````bash
+node kai-uiux-agent-final.js
 ```
 
 The script will produce `KAI_UIUX_Agent_Output.md` containing the generated UX deliverables.
